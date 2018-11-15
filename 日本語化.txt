@@ -1,0 +1,5 @@
+ja.msgを以下のフォルダに配置する。
+
+C:\Program Files\Git\mingw64\share\git-gui\lib\msgs
+
+msgsフォルダは無いので、作成すること。
